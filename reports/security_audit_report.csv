@@ -1,0 +1,5 @@
+Security Check,Result,Status
+Common Password Detection,Found in common password list,Warning
+Password Strength,0/4 - Very Weak,Warning
+Hash Analysis,4 sample hashes analyzed,Completed
+Audit Recommendations,Use a longer and less predictable password.; Avoid commonly used passwords.,Review

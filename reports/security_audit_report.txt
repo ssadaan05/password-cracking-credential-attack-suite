@@ -1,0 +1,22 @@
+PASSWORD SECURITY AUDIT REPORT
+=============================================
+Generated: 2026-11-24 11:11:16.331694
+
+Check: Common Password Detection
+Result: Found in common password list
+Status: Warning
+---------------------------------------------
+Check: Password Strength
+Result: 0/4 - Very Weak
+Status: Warning
+---------------------------------------------
+Check: Hash Analysis
+Result: 4 sample hashes analyzed
+Status: Completed
+---------------------------------------------
+Check: Audit Recommendations
+Result: Use a longer and less predictable password.; Avoid commonly used passwords.
+Status: Review
+---------------------------------------------
+
+Educational report using synthetic sample data.

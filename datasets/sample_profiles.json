@@ -1,0 +1,17 @@
+
+[
+  {
+    "name": "Aarav",
+    "pet": "Milo",
+    "color": "Blue",
+    "hobby": "Cricket",
+    "year": "2024"
+  },
+  {
+    "name": "Riya",
+    "pet": "Coco",
+    "color": "Green",
+    "hobby": "Music",
+    "year": "2025"
+  }
+]
